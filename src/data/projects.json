@@ -1,0 +1,25 @@
+[
+    {
+      "title": "A Weather App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the basic concept of javascript and its functionality.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "file:///C:/Users/aditi/OneDrive/Desktop/HTML%20TUTORIAL/College-project/weather-page/index.html",
+      "source": "https://github.com/Al-pha7/Weather-Page.git"
+    },
+    {
+      "title": "A Movie App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "TMDB API", "Node", "Bootstrap"],
+      "source": "https://github.com/Al-pha7/Project-Movie.git"
+    },
+    {
+      "title": "A ZumbaManagement Class Project",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the basic consept of java.",
+      "skills": ["Java", "Maven", "JSP" ,"Mysql"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Al-pha7/Zumba-Project.git"
+    }
+  ]
